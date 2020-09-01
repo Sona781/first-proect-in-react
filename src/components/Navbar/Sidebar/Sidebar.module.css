@@ -1,0 +1,15 @@
+.nameFriends {
+    margin: 0 auto;
+    padding-left: 50px;
+    font-size: 25px;
+    padding-top: 40px;
+}
+
+.friends {
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    margin: 0 auto;
+}
+
+

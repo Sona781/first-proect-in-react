@@ -1,0 +1,12 @@
+.userAvatar {
+    width: 50px;
+}
+
+.selected {
+    font-weight: bold;
+}
+
+.cursor {
+    cursor: pointer;
+}
+

@@ -1,0 +1,18 @@
+.item a{
+    font-size: 20px;
+    color: #fa34fa;
+    text-decoration: none;
+}
+
+.nav {
+    grid-area: n;
+    background-color: #CCC4FA;
+}
+
+.item a:active {
+    color: gainsboro;
+}
+
+.item a.active {
+    color: gainsboro;
+}
